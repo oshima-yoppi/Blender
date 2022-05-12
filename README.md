@@ -1,5 +1,5 @@
-# dataset
-datasets made by blender
+# blender
+イベントカメラの元動画を作成するためのプログラム。  
 blenderによって物体が回転してる動画を作る。  
 直方体の長さ、角速度をランダムで調整して、動画を作成します。
 
