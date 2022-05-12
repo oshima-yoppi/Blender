@@ -13,10 +13,7 @@ blender2.8をインストールしてください。最新版をインストー�
 datasets.blendのファイルを開いてscriptを開く。
 そこでv2e.pyのファイルを選んで実行する。
 
-```bash
-git clone https://github.com/oshima-yoppi/crick-auto.git
-python auto.py
-```
+
 
 # 注意
 v2e.pyのファイルを動かしている間はblenderアプリがフリーズするけど、気にしないでください。  
